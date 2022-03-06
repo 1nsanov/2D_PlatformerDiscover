@@ -8,7 +8,6 @@ public class HeroInputReader : MonoBehaviour
 
     private void Awake()
     {
-        //_heroMove = GetComponent<HeroMove>();
         _inputAction = new HeroInputAction();
         _inputAction.Hero.HorizontalMovement.performed += OnHorizontalMovement;
         _inputAction.Hero.HorizontalMovement.canceled += OnHorizontalMovement;
