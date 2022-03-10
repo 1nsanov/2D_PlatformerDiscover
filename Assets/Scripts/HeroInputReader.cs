@@ -3,32 +3,37 @@ using UnityEngine.InputSystem;
 
 public class HeroInputReader : MonoBehaviour
 {
-    [SerializeField] private HeroMove _heroMove;
+    [SerializeField] private HeroPlayer _hero;
     private HeroInputAction _inputAction;
 
     private void Awake()
     {
         _inputAction = new HeroInputAction();
-        _inputAction.Hero.HorizontalMovement.performed += OnHorizontalMovement;
-        _inputAction.Hero.HorizontalMovement.canceled += OnHorizontalMovement;
-        _inputAction.Hero.Fire.performed += OnFire;
     }
     private void OnEnable()
     {
         _inputAction.Enable();
     }
 
-    private void OnHorizontalMovement(InputAction.CallbackContext context)
+    public void OnMovement(InputAction.CallbackContext ctx)
     {
-       var direction = context.ReadValue<Vector2>();
-        _heroMove.SetDirection(direction);
+       var direction = ctx.ReadValue<Vector2>();
+        _hero.SetDirection(direction);
     }
 
-    private void OnFire(InputAction.CallbackContext context)
+    public void OnFire(InputAction.CallbackContext ctx)
     {
-        if (context.canceled)
+        if (ctx.canceled)
         {
-            _heroMove.Fire();
+            _hero.Fire();
+        }
+    }
+
+    public void OnInteract(InputAction.CallbackContext ctx)
+    {
+        if (ctx.canceled)
+        {
+            _hero.Interact();
         }
     }
 }
