@@ -9,7 +9,6 @@ namespace Scripts.Components
         {
             var scene = SceneManager.GetActiveScene();
             SceneManager.LoadScene(scene.name);
-            DestroyObjectComponent.TotalSumCoins = 0;
         }
     }
 }

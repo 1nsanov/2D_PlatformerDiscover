@@ -1,94 +1,82 @@
 fileFormatVersion: 2
-guid: 3f81b14c46f15a646bdd44dac751a5a5
+guid: e00ffdfd88db8a74f9e2e607634e9cdd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6146700129834819302
-    second: Hero_0
+      213: 1185527514606905908
+    second: Potions_0
   - first:
-      213: 9138555137054584332
-    second: Hero_1
+      213: -1061600653231999548
+    second: Potions_1
   - first:
-      213: 2632276121321243838
-    second: Hero_2
+      213: -3065595510956808684
+    second: Potions_2
   - first:
-      213: 2805043176163793281
-    second: Hero_3
+      213: 6997616985800771554
+    second: Potions_3
   - first:
-      213: 3530003579022248241
-    second: Hero_4
+      213: 8618505411793156745
+    second: Potions_4
   - first:
-      213: 8960899199633546546
-    second: Hero_5
+      213: -1972361127685065434
+    second: Potions_5
   - first:
-      213: 1635744749237841209
-    second: Hero_6
+      213: -5226445311955339714
+    second: Potions_6
   - first:
-      213: 4360131077223874234
-    second: Hero_7
+      213: 3714227102187029162
+    second: Potions_7
   - first:
-      213: -3687602496079464652
-    second: Hero_8
+      213: -6202940564662568092
+    second: Potions_8
   - first:
-      213: -2142791582941521445
-    second: Hero_9
+      213: -8747976068718324687
+    second: Potions_9
   - first:
-      213: 7018385267601350384
-    second: Hero_10
+      213: 7142050841817600938
+    second: Potions_10
   - first:
-      213: 1917320343087086255
-    second: Hero_11
+      213: -860807820763296739
+    second: Potions_11
   - first:
-      213: -6089189685315772502
-    second: Hero_12
+      213: -5249288142952506341
+    second: Potions_12
   - first:
-      213: -314675951565558864
-    second: Hero_13
+      213: 1089735312403315716
+    second: Potions_13
   - first:
-      213: -5800700536808373965
-    second: Hero_14
+      213: 2011574832808370117
+    second: Potions_14
   - first:
-      213: -3983798310479679007
-    second: Hero_15
+      213: -8438763151253471919
+    second: Potions_15
   - first:
-      213: -9014295782854626241
-    second: Hero_16
+      213: -7587008787810219046
+    second: Potions_16
   - first:
-      213: -7067365077701195739
-    second: Hero_17
+      213: 950379908824699032
+    second: Potions_17
   - first:
-      213: -5991450931309886240
-    second: Hero_18
+      213: -512142692958456438
+    second: Potions_18
   - first:
-      213: -6060876265418842428
-    second: Hero_19
+      213: 8745225756722806956
+    second: Potions_19
   - first:
-      213: -2907588548364164451
-    second: Hero_20
+      213: -7481350877133238684
+    second: Potions_20
   - first:
-      213: -354585906375729080
-    second: Hero_21
+      213: 6040734443530017722
+    second: Potions_21
   - first:
-      213: -2424968931422420723
-    second: Hero_22
+      213: 8167133005111728920
+    second: Potions_22
   - first:
-      213: 552900063559834478
-    second: Hero_23
+      213: 2014349484240403859
+    second: Potions_23
   - first:
-      213: 2294949204960916495
-    second: Hero_24
-  - first:
-      213: 2776209665653643088
-    second: Hero_25
-  - first:
-      213: -1910980653693743081
-    second: Hero_26
-  - first:
-      213: 2382439291522176088
-    second: Hero_27
-  - first:
-      213: 7797690872389585371
-    second: Hero_28
+      213: 6326803469982491369
+    second: Potions_24
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -214,34 +202,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hero_0
+      name: Potions_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 672
-        width: 96
-        height: 96
-      alignment: 9
-      pivot: {x: 0.4, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a11295c6cc882baa0800000000000000
-      internalID: -6146700129834819302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_1
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 672
-        width: 96
-        height: 96
+        y: 120
+        width: 32
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,20 +216,125 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0ea570aa7ba2de70800000000000000
-      internalID: 9138555137054584332
+      spriteID: 43aa89b4ef6d37010800000000000000
+      internalID: 1185527514606905908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero_2
+      name: Potions_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5b8ca94df6441f0800000000000000
+      internalID: -1061600653231999548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41623600021d475d0800000000000000
+      internalID: -3065595510956808684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e705e8d2978c1160800000000000000
+      internalID: 6997616985800771554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a76bc52051b9770800000000000000
+      internalID: 8618505411793156745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625fa8f1104c0a4e0800000000000000
+      internalID: -1972361127685065434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_6
       rect:
         serializedVersion: 2
         x: 192
-        y: 672
-        width: 96
-        height: 96
+        y: 120
+        width: 32
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -270,62 +342,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb4881a9f29b78420800000000000000
-      internalID: 2632276121321243838
+      spriteID: e3675eefdafe777b0800000000000000
+      internalID: -5226445311955339714
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero_3
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18950ee28e38de620800000000000000
-      internalID: 2805043176163793281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_4
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1398a776d871df030800000000000000
-      internalID: 3530003579022248241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_5
+      name: Potions_7
       rect:
         serializedVersion: 2
         x: 0
-        y: 576
-        width: 96
-        height: 96
+        y: 80
+        width: 32
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,20 +363,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23d5d3e58528b5c70800000000000000
-      internalID: 8960899199633546546
+      spriteID: aa28cf0eed59b8330800000000000000
+      internalID: 3714227102187029162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero_6
+      name: Potions_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b3d68cb6abae9a0800000000000000
+      internalID: -6202940564662568092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1341d604d12f89680800000000000000
+      internalID: -8747976068718324687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_10
       rect:
         serializedVersion: 2
         x: 96
-        y: 576
-        width: 96
-        height: 96
+        y: 80
+        width: 32
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,20 +426,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93d2881de2553b610800000000000000
-      internalID: 1635744749237841209
+      spriteID: aa351528669ad1360800000000000000
+      internalID: 7142050841817600938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero_7
+      name: Potions_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c868709dbcd04f0800000000000000
+      internalID: -860807820763296739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c55a3fe38c627b0800000000000000
+      internalID: -5249288142952506341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_13
       rect:
         serializedVersion: 2
         x: 192
-        y: 576
-        width: 96
-        height: 96
+        y: 80
+        width: 32
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,83 +489,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abef1102d1c428c30800000000000000
-      internalID: 4360131077223874234
+      spriteID: 40cbff23e748f1f00800000000000000
+      internalID: 1089735312403315716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero_8
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 437f65c411103dcc0800000000000000
-      internalID: -3687602496079464652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_9
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd9d21788664342e0800000000000000
-      internalID: -2142791582941521445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_10
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0fe96344730566160800000000000000
-      internalID: 7018385267601350384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_11
+      name: Potions_14
       rect:
         serializedVersion: 2
         x: 0
-        y: 480
-        width: 96
-        height: 96
+        y: 40
+        width: 32
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -459,20 +510,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: faaf55291b0bb9a10800000000000000
-      internalID: 1917320343087086255
+      spriteID: 5cf98a417ac8aeb10800000000000000
+      internalID: 2011574832808370117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero_12
+      name: Potions_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d71e9df9d73ea80800000000000000
+      internalID: -8438763151253471919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb0ec684b785b690800000000000000
+      internalID: -7587008787810219046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_17
       rect:
         serializedVersion: 2
         x: 96
-        y: 480
-        width: 96
-        height: 96
+        y: 40
+        width: 32
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -480,20 +573,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aafd7cc3e3ade7ba0800000000000000
-      internalID: -6089189685315772502
+      spriteID: 8901a23ed7d603d00800000000000000
+      internalID: 950379908824699032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero_13
+      name: Potions_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8536e72fe084e8f0800000000000000
+      internalID: -512142692958456438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca04f06dd784d5970800000000000000
+      internalID: 8745225756722806956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_20
       rect:
         serializedVersion: 2
         x: 192
-        y: 480
-        width: 96
-        height: 96
+        y: 40
+        width: 32
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,251 +636,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bba397a3eb02abf0800000000000000
-      internalID: -314675951565558864
+      spriteID: 46e8a60e307ec2890800000000000000
+      internalID: -7481350877133238684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero_14
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3318e1f5895cf7fa0800000000000000
-      internalID: -5800700536808373965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e1be0f2b84b6b8c0800000000000000
-      internalID: -3983798310479679007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_16
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f34f5aaceb9c6e280800000000000000
-      internalID: -9014295782854626241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_17
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5288e9508ecabed90800000000000000
-      internalID: -7067365077701195739
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_18
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e4471e3f171adca0800000000000000
-      internalID: -5991450931309886240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_19
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ce1d14062173eba0800000000000000
-      internalID: -6060876265418842428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_20
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d92a2cdce9b26a7d0800000000000000
-      internalID: -2907588548364164451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_21
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8406d103ff1441bf0800000000000000
-      internalID: -354585906375729080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_22
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d01453bda97c85ed0800000000000000
-      internalID: -2424968931422420723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_23
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e6b56ccadab4ca700800000000000000
-      internalID: 552900063559834478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_24
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f04b24b842c49df10800000000000000
-      internalID: 2294949204960916495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_25
+      name: Potions_21
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 96
-        height: 96
+        width: 32
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -753,20 +657,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0579a4f5bf3178620800000000000000
-      internalID: 2776209665653643088
+      spriteID: abbd211a8fff4d350800000000000000
+      internalID: 6040734443530017722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero_26
+      name: Potions_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b9d03623c775170800000000000000
+      internalID: 8167133005111728920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39df3a5fe2864fb10800000000000000
+      internalID: 2014349484240403859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions_24
       rect:
         serializedVersion: 2
         x: 96
         y: 0
-        width: 96
-        height: 96
+        width: 32
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -774,50 +720,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 710d0f36835da75e0800000000000000
-      internalID: -1910980653693743081
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_27
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 854dc16b9ef101120800000000000000
-      internalID: 2382439291522176088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero_28
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd94615d886f63c60800000000000000
-      internalID: 7797690872389585371
+      spriteID: 9e2e3003c325dc750800000000000000
+      internalID: 6326803469982491369
       vertices: []
       indices: 
       edges: []
