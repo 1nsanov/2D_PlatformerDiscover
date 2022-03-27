@@ -25,14 +25,14 @@ namespace Scripts
 
             StartAnimation();
         }
-        private void OnBecameVisible()
-        {
-            enabled = _isPlaying;
-        }
-        private void OnBecameInvisible()
-        {
-            enabled = false;
-        }
+        //private void OnBecameVisible()
+        //{
+        //    enabled = _isPlaying;
+        //}
+        //private void OnBecameInvisible()
+        //{
+        //    enabled = false;
+        //}
 
         public void SetClip(string clipName)
         {

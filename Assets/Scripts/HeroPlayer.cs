@@ -50,7 +50,7 @@ public class HeroPlayer : MonoBehaviour
     {
         var xVelocity = _direction.x * _speed;
         var yVelocity = CalcYVelocity();
-        SpawnFallParticle(_rigidbody.velocity.y);
+        //SpawnFallParticle(_rigidbody.velocity.y);
         _rigidbody.velocity = new Vector2(xVelocity, yVelocity);
     }
 
@@ -199,5 +199,4 @@ public class HeroPlayer : MonoBehaviour
     //    Gizmos.color = IsGrounded() ? Color.green : Color.red;
     //    Gizmos.DrawSphere(transform.position, 0.1f);
     //}
-
 }
